@@ -223,8 +223,9 @@ def f(R, k):
 
 
 #### 第3关：扩展功能考虑到向实用性扩展，加密算法的数据输入可以是ASII编码字符串(分组为1 Byte)，对应地输出也可以是ACII字符串(很可能是乱码)。
-[![image](https://imgur.la/images/2024/10/07/imagee242818ec3eb4275.md.png)](https://imgur.la/image/image.fajnU)
-[![image](https://imgur.la/images/2024/10/07/image1c259a7497412633.md.png)](https://imgur.la/image/image.faU5L)
+
+![ui](https://github.com/user-attachments/assets/68b09324-c7ff-4c43-97b3-464f36c7ae38)
+
 
 
 经测试，该程序能够完成功能扩展，实现ASCII编码的加解密。
@@ -233,14 +234,15 @@ def f(R, k):
 
 
 #### 第4关：暴力破解：检测是否能够实现暴力破解，且设置时间戳，记录暴力破解时间。
-[![image](https://imgur.la/images/2024/10/07/imagec65e4bae8c2750af.md.png)](https://imgur.la/image/image.fDzKa)
+
+![暴力破解](https://github.com/user-attachments/assets/106a2098-a552-4564-9c9a-ba266fde45f0)
 
 
 经测试，该程序能够实现暴力破解
 
 #### 第5关：封闭测试：分析是否存在多个密钥可以生成相同的密文
-[![image](https://imgur.la/images/2024/10/07/imaged0e8a5f4ef8946fe.md.png)](https://imgur.la/image/image.fDCip)
-[![image](https://imgur.la/images/2024/10/07/image5b2694d5b886f35f.md.png)](https://imgur.la/image/image.fD4A3)
+
+![暴力破解](https://github.com/user-attachments/assets/080d83e6-c2d1-4629-93a0-82ac588c587a)
 
 
 经测试，该程序能够在较短时间内分析是否存在多个密钥可以生成相同的密文。
