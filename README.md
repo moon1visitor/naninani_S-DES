@@ -200,18 +200,17 @@ def f(R, k):
 我们与其他组进行了交叉测试：
 
 
-二进制加密选择相同的明文P为：01110100  选择相同的密钥K为：1011011001
+二进制加密选择相同的明文P为：10110010  选择相同的密钥K为：1110001010
 
 
 
-二进制解密选择相同的密文P为：10000110  选择相同的密钥K为：1011011001
+二进制解密选择相同的密文P为：10010010  选择相同的密钥K为：1110001010
+
+![对比1](https://github.com/user-attachments/assets/7a5ac13f-c5ea-4aa2-a00f-1502bf906284)
 
 
+![对比2](https://github.com/user-attachments/assets/b844cc33-e365-4f5a-ab35-c5dd8a5da3fa)
 
-
-[![image](https://imgur.la/images/2024/10/07/image9117bc41222c38f4.md.png)](https://imgur.la/image/image.fDZ9b)
-[![image](https://imgur.la/images/2024/10/07/imagee518d347c881bcbc.md.png)](https://imgur.la/image/image.fDeNN)
-[![image](https://imgur.la/images/2024/10/07/image1bef2e6172e92b2c.md.png)](https://imgur.la/image/image.fDRnQ)
 
 
 
