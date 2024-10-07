@@ -180,9 +180,10 @@ def f(R, k):
 
 ## 五、项目测试
 #### 第1关：根据S-DES算法编写和调试程序，提供GUI解密支持用户交互。输入可以是8bit的数据和10bit的密钥，输出是8bit的密文
-[![image](https://imgur.la/images/2024/10/07/image024da1b83d562ee1.md.png)](https://imgur.la/image/image.faCiF)
-[![image](https://imgur.la/images/2024/10/07/image91e5dff336234c14.md.png)](https://imgur.la/image/image.faP5K)
 
+![加密](https://github.com/user-attachments/assets/670bb478-154a-4a13-b81c-958083a47592)
+
+![解密](https://github.com/user-attachments/assets/705b24c7-9091-4108-a099-a3e1dc3b9a28)
 
 
 经测试，该程序能够快速实现二进制模式下的加解密。
